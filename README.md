@@ -5,3 +5,4 @@ This holiday season, I will do my best to do the Advent of Code challenges! My f
 
 Here's some notes about different days:
 1) On day 1 I had to get back on some basics. It took me longer than I'd like to admit. I got "stuck" right in the beginning thinking about a proper way of doing it, noticing right away that `np.loadtxt()` skips empty lines, which made me re-evaluate. I ended up using pandas as main tool for resolution. The rest is just some `for` loops. I did the second part very roughly, without much thought.
+2) Bah, I did stuff without thinking and ended up just hard coding it. Took me about 1 hour to finish. In hindsight, one thing that could have made my life much easier was to determine a dictionary and a scoring point matrix. 
