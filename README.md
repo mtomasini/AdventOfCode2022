@@ -13,3 +13,4 @@ Here's some notes about different days:
 7) Woah. Tough. I had a good idea, but implementing the class took so much... I used a cool little library called `anytree`! Very cool, but took some time.
 8) The algorithm was honestly easy, but I got stuck on indexes counts. That was a mess to figure out. And also, for the future remember that relative index of a chunk of row in `pandas` keeps the original indexes! 
 9) I'm happy that I came up with the right idea right away, although it proved difficult to get the logics right, especially with the "long horse" movement (whose secret was hidden in the text)...
+10) Another very fun day! Not the most difficult, to be honest, and it was interesting to think of this little puzzle. Very very happy!
